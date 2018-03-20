@@ -1,0 +1,6 @@
+framework module ZhumuSDK {
+  umbrella header "ZhumuSDK.h"
+
+  export *
+  module * { export * }
+}
